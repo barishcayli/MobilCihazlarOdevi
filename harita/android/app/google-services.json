@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22262859018",
+    "project_id": "haritapro-f74b5",
+    "storage_bucket": "haritapro-f74b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22262859018:android:49a1a5b8a363bdf0f426f3",
+        "android_client_info": {
+          "package_name": "com.example.harita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDabwXalEAWRPN2zM7-Z5foKYjo9whmX1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
