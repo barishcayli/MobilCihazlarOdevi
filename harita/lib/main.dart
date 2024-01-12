@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Haritada hasarlı yerler',
       home: HaritaEkrani(),
-      debugShowCheckedModeBanner: false, // Bu satırı ekleyin
+      debugShowCheckedModeBanner: false, 
     );
   }
 }
